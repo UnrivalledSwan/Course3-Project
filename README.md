@@ -1,9 +1,4 @@
----
-title: "README"
-author: "Andy Sullivan"
-date: "1/15/2020"
-output: html_document
----
+# README
 
 ## Introduction
 
@@ -76,7 +71,7 @@ You should create one R script called run_analysis.R that does the following.
   5.  From the data set in step 4, create a second, independent tidy data set with the average of 
       each variable for each activity and each subject.
       
-    #      My Tidy Data Set is named ReturnDF and returns a file named Summary.csv
+    #      My Tidy Data Set is named ReturnDF and returns a file named Summary.txt
 
 ## Requirements
 
@@ -93,4 +88,4 @@ The Repository contains the following:
   1.  `README.md` - This is a file that explains the project, requirements, and contents
   2.  `CodeBok.md` - This is a file that contains the Information about what we can find in the output file
   3.  `run_analysis.R` - This is the script that will generate the output file.
-  4.  `Summary.csv` - This is the output file
+  4.  `Summary.txt` - This is the output file

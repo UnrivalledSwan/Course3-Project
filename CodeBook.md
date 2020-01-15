@@ -1,13 +1,8 @@
----
-title: "CodeBook"
-author: "Andy Sullivan"
-date: "1/14/2020"
-output: html_document
----
+# Code Book
 
 ## Introduction
 
-This Code book explains the data in Summary.csv.  Summary.csv is a comma separated value file.  There are 180 rows in the file.
+This Code book explains the data in Summary.txt.  Summary.txt is a text file where the fields are separated by spaces.  There are 180 rows in the file.
 
 ## Identifiers
 

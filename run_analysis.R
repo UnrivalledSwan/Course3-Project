@@ -156,7 +156,7 @@
 # ------------------------------
     
     ReturnDF <- SummaryDF %>% group_by(SubjectID, Activity) %>% summarise_all(list(mean = mean))
-    write.csv(ReturnDF,"../Summary.csv")
+    write.table(ReturnDF,"../Summary.txt", row.names = FALSE)
     
 # ------------------------------
 # End Process 5
